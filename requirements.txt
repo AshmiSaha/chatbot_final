@@ -12,3 +12,4 @@ threadpoolctl==3.5.0
 tqdm==4.66.6
 wheel>=0.40.0
 streamlit==1.35.0
+cython==0.29.36
