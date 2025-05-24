@@ -1,0 +1,129 @@
+﻿question,intent,response
+What are the admission requirements for undergraduate programs?,admission_requirements,"The admission requirements for undergraduate programs include a completed application form, high school transcripts, and standardized test scores."
+How can I apply for a scholarship?,scholarship_info,You can apply for scholarships by filling out the scholarship application form available on our website and submitting it before the deadline.
+What is the application deadline for the fall semester?,application_deadline,The application deadline for the fall semester is July 15th.
+Do you offer financial aid?,financial_aid,"Yes, we offer financial aid to eligible students. Please visit our financial aid office for more information."
+Can I apply online?,application_process,"Yes, you can apply online through our official admissions portal."
+Are there any entrance exams required?,entrance_exam,Some programs require entrance exams. Please check the specific program requirements on our website.
+What documents are needed for international students?,international_students,"International students need to submit their passport, visa, academic transcripts, and proof of English proficiency."
+Is there an application fee?,application_fee,"Yes, there is a non-refundable application fee of $50."
+How do I check the status of my application?,application_status,You can check your application status by logging into your applicant portal on our website.
+Can I defer my admission?,admission_deferral,"Yes, admission deferral is possible under certain circumstances. Please contact the admissions office for details."
+What programs do you offer?,programs_offered,"We offer a wide range of programs including Engineering, Business, Arts, and Sciences."
+How long does the admission process take?,admission_process_time,The admission process typically takes 4-6 weeks after the application deadline.
+Are campus tours available?,campus_tours,"Yes, campus tours are available. You can schedule a tour through our admissions office."
+Do you have on-campus housing?,housing,"Yes, we offer on-campus housing options for students."
+What is the minimum GPA requirement?,gpa_requirement,The minimum GPA requirement is 3.0 on a 4.0 scale.
+Can I transfer credits from another college?,transfer_credits,"Yes, transfer credits are evaluated on a case-by-case basis."
+Is there an orientation program for new students?,orientation,"Yes, an orientation program is held before the start of each semester."
+What is the refund policy for tuition fees?,refund_policy,Tuition fees are refundable within the first two weeks of the semester.
+Are part-time study options available?,part_time_study,"Yes, part-time study options are available for many programs."
+How do I contact the admissions office?,contact_info,You can contact the admissions office via email at admissions@college.edu or call (123) 456-7890.
+What is the procedure for late applications?,late_application,Late applications are considered on a case-by-case basis and may incur additional fees.
+Do you offer online courses?,online_courses,"Yes, we offer a variety of online courses and degree programs."
+What is the language of instruction?,language_instruction,The language of instruction is English.
+Are there any age restrictions for applicants?,age_restrictions,There are no age restrictions for applicants.
+Can I apply for multiple programs?,multiple_programs,"Yes, you can apply for multiple programs but must submit separate applications for each."
+What is the student to faculty ratio?,student_faculty_ratio,The student to faculty ratio is approximately 15:1.
+Do you provide assistance with visa applications?,visa_assistance,"Yes, our international office provides assistance with visa applications."
+What extracurricular activities are available?,extracurricular_activities,"We offer a variety of extracurricular activities including sports, clubs, and volunteer opportunities."
+Is there a deadline for scholarship applications?,scholarship_deadline,Scholarship applications must be submitted by June 1st.
+How do I submit my transcripts?,transcript_submission,Transcripts can be submitted electronically through the application portal or mailed to the admissions office.
+What is the policy on course withdrawals?,course_withdrawal,Students can withdraw from courses within the first four weeks of the semester without penalty.
+Are there any special programs for international students?,international_programs,"Yes, we have special orientation and support programs for international students."
+Can I change my program after admission?,program_change,Program changes are allowed within the first semester subject to approval.
+What are the tuition fees for undergraduate programs?,tuition_fees,Tuition fees vary by program. Please refer to the tuition fee schedule on our website.
+Do you offer internships or co-op programs?,internships,"Yes, many programs offer internships and co-op opportunities."
+What is the policy on academic probation?,academic_probation,Students with a GPA below 2.0 are placed on academic probation.
+Are there any language proficiency requirements?,language_proficiency,"Yes, non-native English speakers must provide TOEFL or IELTS scores."
+How do I apply for housing?,housing_application,Housing applications can be submitted online through the student housing portal.
+What support services are available for students?,student_support,"We offer counseling, tutoring, and career services for students."
+Is there a dress code for students?,dress_code,There is no formal dress code for students.
+What is the maximum credit load per semester?,credit_load,The maximum credit load per semester is 18 credits.
+Are there any student exchange programs?,exchange_programs,"Yes, we have exchange agreements with several international universities."
+How do I get my student ID?,student_id,Student IDs are issued during orientation week.
+What is the policy on attendance?,attendance_policy,Attendance policies vary by program but regular attendance is expected.
+Can I get a refund if I withdraw from the program?,program_withdrawal_refund,Refunds are prorated based on the withdrawal date.
+What are the library hours?,library_hours,The library is open from 8 AM to 10 PM on weekdays.
+Do you offer evening classes?,evening_classes,"Yes, some programs offer evening classes."
+Are there any fees for lab courses?,lab_fees,Some lab courses have additional fees. Please check the course details.
+What is the process for applying for disability services?,disability_services,Students can apply for disability services through the student support office.
+Can I take courses from other departments?,cross_department_courses,"Yes, with approval, students can take courses from other departments."
+What is the policy on plagiarism?,plagiarism_policy,Plagiarism is strictly prohibited and may result in disciplinary action.
+Are there any summer programs?,summer_programs,"Yes, we offer summer courses and programs."
+How do I update my contact information?,update_contact_info,You can update your contact information through the student portal.
+What is the process for graduation application?,graduation_application,Students must apply for graduation through the registrar's office.
+Are there any student discounts available?,student_discounts,Some local businesses offer student discounts with a valid student ID.
+What is the policy on leave of absence?,leave_of_absence,Students can apply for a leave of absence for up to one year.
+Do you offer counseling services?,counseling_services,"Yes, counseling services are available to all students."
+What is the procedure for course registration?,course_registration,Course registration is done online through the student portal.
+Are there any prerequisites for courses?,course_prerequisites,Some courses have prerequisites. Please check the course catalog.
+Can I retake a course if I fail?,course_retake,"Yes, courses can be retaken once."
+What is the policy on academic integrity?,academic_integrity,Academic integrity is expected from all students and violations are taken seriously.
+Are there any student organizations?,student_organizations,"Yes, there are many student organizations and clubs."
+What is the process for applying for a visa?,visa_application,International students must apply for a student visa through their local embassy.
+Do you offer language courses?,language_courses,"Yes, language courses are available for non-native speakers."
+What is the policy on grading?,grading_policy,Grading policies vary by program but follow a standard A-F scale.
+Are there any opportunities for research?,research_opportunities,"Yes, students can participate in research projects with faculty."
+How do I apply for a leave of absence?,leave_application,Leave of absence applications are submitted to the registrar's office.
+Are there any health services on campus?,health_services,"Yes, health services are available to students on campus."
+What is the policy on student conduct?,student_conduct,Students are expected to follow the code of conduct outlined in the student handbook.
+Can I get academic advising?,academic_advising,Academic advising is available to help students plan their courses.
+Are there any career services?,career_services,"Yes, career services provide job search assistance and resume workshops."
+How do I appeal a grade?,grade_appeal,Grade appeals can be submitted to the academic affairs office.
+Are there any tutoring services?,tutoring_services,Tutoring services are available for many subjects.
+What is the policy on course audits?,course_audit,Course audits are allowed with instructor permission.
+Can I study abroad?,study_abroad,"Yes, study abroad programs are available."
+What is the policy on student privacy?,student_privacy,Student information is kept confidential according to privacy laws.
+Are there any technology resources for students?,technology_resources,We provide computer labs and software access for students.
+How do I apply for graduation?,graduation_application,Graduation applications are submitted through the registrar's office.
+What is the policy on make-up exams?,makeup_exams,Make-up exams are allowed with valid reasons and prior approval.
+Are there any workshops or seminars?,workshops_seminars,"Yes, workshops and seminars are regularly held on campus."
+What is the procedure for changing majors?,change_major,Students can change majors by submitting a form to the registrar.
+Do you offer evening study spaces?,evening_study_spaces,"Yes, the library and some study areas are open in the evenings."
+What is the policy on student loans?,student_loans,Student loans are available through government programs.
+Are there any alumni services?,alumni_services,"Yes, alumni services include networking and career support."
+What is the policy on campus safety?,campus_safety,Campus safety is a priority with security personnel and emergency systems.
+Can I get help with resume writing?,resume_help,Career services offer resume writing assistance.
+What is the policy on academic awards?,academic_awards,Academic awards are given based on GPA and achievements.
+What is the procedure for withdrawing from the college?,withdrawal_procedure,Students must notify the registrar and complete withdrawal forms.
+What is the policy on course evaluations?,course_evaluations,Course evaluations are conducted at the end of each semester.
+What support is available for veterans?,veteran_support,Support services are available for veterans including counseling and benefits assistance.
+What is the policy on student feedback?,student_feedback,Student feedback is collected to improve programs and services.
+What is the procedure for applying for a visa extension?,visa_extension,Visa extension applications are handled by the international office.
+What is the policy on parking permits?,parking_permits,Parking permits are required for on-campus parking.
+What is the procedure for reporting harassment?,harassment_reporting,Harassment can be reported to the campus security or student affairs office.
+What is the policy on use of campus facilities?,campus_facilities,Campus facilities are for student use during operating hours.
+What is the procedure for requesting transcripts?,transcript_request,Transcript requests can be made through the registrar's office.
+What is the policy on student employment?,student_employment,Student employment opportunities are available on campus.
+What is the procedure for applying for a visa interview?,visa_interview,Visa interviews are scheduled through the local embassy.
+What is the policy on academic calendar?,academic_calendar,The academic calendar is published on the college website.
+What is the procedure for applying for a student ID replacement?,id_replacement,Student ID replacements can be requested at the student services office.
+What is the policy on campus events?,campus_events,Campus events are organized by the student affairs office.
+What is the procedure for applying for a transcript evaluation?,transcript_evaluation,Transcript evaluations are done by the admissions office.
+What is the policy on student health insurance?,health_insurance,Student health insurance is available through the college.
+What is the procedure for applying for a parking permit?,parking_permit_application,Parking permit applications are submitted online.
+What is the policy on academic advising appointments?,advising_appointments,Academic advising appointments can be scheduled through the student portal.
+What is the procedure for applying for a study permit?,study_permit_application,Study permit applications are handled by the international office.
+What is the policy on student conduct hearings?,conduct_hearings,Student conduct hearings are conducted by the student affairs office.
+What is the procedure for applying for a transcript correction?,transcript_correction,Transcript corrections can be requested through the registrar's office.
+What is the policy on student organizations funding?,organizations_funding,Student organizations can apply for funding through the student government.
+What is the procedure for applying for a graduation ceremony?,graduation_ceremony_application,Applications for graduation ceremonies are submitted to the registrar.
+What is the policy on student parking violations?,parking_violations,Parking violations are subject to fines and penalties.
+What is the procedure for applying for a student visa renewal?,visa_renewal,Student visa renewals are processed by the international office.
+What is the policy on campus accessibility?,campus_accessibility,Campus accessibility services are available for students with disabilities.
+What is the procedure for applying for a student exchange program?,exchange_program_application,Applications for student exchange programs are submitted to the international office.
+What is the policy on student disciplinary actions?,disciplinary_actions,Disciplinary actions are handled by the student affairs office.
+What is the procedure for applying for a student loan?,student_loan_application,Student loan applications are submitted through the financial aid office.
+What is the policy on student housing contracts?,housing_contracts,Housing contracts must be signed before moving into campus housing.
+What is the procedure for applying for a student ID?,student_id_application,Student ID applications are submitted during orientation.
+What is the policy on student attendance appeals?,attendance_appeals,Attendance appeals can be submitted to the academic affairs office.
+What is the procedure for applying for a student transcript?,student_transcript_application,Student transcript applications are submitted through the registrar's office.
+What is the policy on student academic probation appeals?,probation_appeals,Academic probation appeals are reviewed by the academic affairs office.
+What is the procedure for applying for a student visa?,student_visa_application,Student visa applications are submitted to the international office.
+What is the policy on student academic dismissal?,academic_dismissal,Academic dismissal policies are outlined in the student handbook.
+What is the procedure for applying for a student scholarship?,scholarship_application,Scholarship applications are submitted through the financial aid office.
+What is the policy on student academic honors?,academic_honors,Academic honors are awarded based on GPA and academic achievements.
+What is the procedure for applying for a student transfer?,student_transfer_application,Student transfer applications are submitted through the admissions office.
+What is the policy on student academic appeals?,academic_appeals,Academic appeals are reviewed by the academic affairs office.
+What is the procedure for applying for a student withdrawal?,student_withdrawal_application,Student withdrawal applications are submitted through the registrar's office.
